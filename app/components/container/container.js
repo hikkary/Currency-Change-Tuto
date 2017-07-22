@@ -9,7 +9,7 @@ const Container = ({ children }) =>(
 	</View>
 );
 
-Container.PropTypes = {
+Container.propTypes = {
 	children: PropTypes.any,
 };
 
